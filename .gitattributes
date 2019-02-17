@@ -1,4 +1,0 @@
-配置与使用ansible.txt filter=lfs diff=lfs merge=lfs -text
-logs/配置与使用ansible.txt filter=lfs diff=lfs merge=lfs -text
-q filter=lfs diff=lfs merge=lfs -text
-et filter=lfs diff=lfs merge=lfs -text
