@@ -7,7 +7,7 @@ Ansible简单入门
 	    上传包 解压: 
 			mkdir ansible
 			cd ansible
-			tar -zxvf rpmansible.tar.gz
+			tar -zxvf rpmansible. tar.gz
 			rpm -ivh *.rpm
 			
 
