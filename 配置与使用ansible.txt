@@ -34,7 +34,7 @@ Ansible简单入门
 	sed 's/#host_key_checking/host_key_checking/g' /etc/ansible/ansible.cfg -i
 		
 		
-2 修改 /etc/ansible/hosts 文件
+2 修改 /etc/ansible/hosts 文件 
 #文件最后面追加如下
 #定义 groupsname
 	方法1:不需要配置互信
