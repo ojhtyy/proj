@@ -9,7 +9,7 @@ Ansible简单入门
 			cd ansible
 			tar -zxvf rpmansible. tar.gz
 			rpm -ivh *.rpm
-			
+			 
 
 
   安装方法1:使用pip（python的包管理模块）安装
